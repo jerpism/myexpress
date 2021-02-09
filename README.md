@@ -1,2 +1,2 @@
 # myexpress
-Repository for school stuff
+Repository for a course
